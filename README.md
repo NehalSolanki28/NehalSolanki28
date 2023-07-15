@@ -2,7 +2,7 @@
 #### I am Interested in  Web Development and Coding.
 
 # Nehal Solanki
-I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy UI, UX, and design in general. 
+I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress and PHP. I also enjoy UI, UX, and design in general. 
 
 ## Skills :  
 * ⚛  ReactJs 
@@ -12,9 +12,9 @@ I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I re
     
 
 
-- 🌱 I’m currently learning MERN Development
+- 🌱 I’m currently working on  MERN Development
 - 📫 How to reach me: nehalsolanki69@gmail.com 
-
+- ⚡ Fun fact: I like playing outdoor games and reading books.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nehalsolanki28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nehalsolanki28/)  
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
