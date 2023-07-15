@@ -11,8 +11,9 @@ I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I re
 * 🕹  Wordpress
     
 
-
-- 🌱 I’m currently working on  MERN Development
+##
+- 🌱 I’m currently learning  MERN Development.
+- 👯 I’m looking to collaborate on Web Developer.
 - 📫 How to reach me: nehalsolanki69@gmail.com 
 - ⚡ Fun fact: I like playing outdoor games and reading books.
 
