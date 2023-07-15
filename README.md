@@ -1,11 +1,18 @@
 ### Hi 👋, I'am Nehal Solanki
 #### I am Interested in  Web Development and Coding.
+
+# Nehal Solanki
 I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy UI, UX, and design in general. 
 
+## Skills :  
+* ⚛  ReactJs 
+* 💻 HTML / CSS / JS / PHP
+* 💕 C / C++
+* 🕹  Wordpress
+    
 
-Skills: PHP / REACT / JS / HTML / CSS / WordPress / C / C++
 
-- 🌱 I’m currently learning MERN Stack  
+- 🌱 I’m currently learning MERN Development
 - 📫 How to reach me: nehalsolanki69@gmail.com 
 
 
