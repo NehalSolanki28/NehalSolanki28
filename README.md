@@ -1,4 +1,4 @@
-### Hi there 👋, Nehal Solanki
+### Hi 👋, I'am Nehal Solanki
 #### I am Interested in  Web Development and Coding.
 I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy UI, UX, and design in general. 
 
