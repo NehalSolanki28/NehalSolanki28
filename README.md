@@ -1,5 +1,5 @@
 <h1 align ="center"> Hey Everyone 👋, I'm Nehal Solanki </h1>
-<h3 align ="center">I am Interested in  Web Development and Coding.</h3>
+<h3 align ="center">I am Interested in working as a Software Developer.</h3>
 </br>
 <h2 align="center"> Nehal Solanki </h2>
 <p align="center">I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress and PHP. I also enjoy UI, UX, and design in general. </p>
@@ -7,13 +7,15 @@
 ## Skills :  
 * ⚛  ReactJs 
 * 💻 HTML / CSS / JS / PHP
-* 💕 C / C++
+* 💕 C / C++ / Python
 * 🕹  Wordpress
+  
     
 
 ## Overview :
 - 🌱 I’m currently learning  MERN Development.
-- 👯 I’m looking to collaborate on Web Developer.
+- 👯 I’m looking to collaborate on Web Developer / Pyhton Developer .
+- 👯 I have a good skills in Python Programming.
 - 📫 How to reach me: nehalsolanki69@gmail.com 
 - ⚡ Fun fact: I like playing outdoor games and reading books.
 
