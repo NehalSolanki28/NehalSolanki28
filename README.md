@@ -2,17 +2,18 @@
 <h3 align ="center">I am Interested in working as a Software Developer.</h3>
 </br>
 <h2 align="center"> Nehal Solanki </h2>
-<p align="center">I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress and PHP. I also enjoy UI, UX, and design in general. </p>
+<p align="center">I'm Nehal from Daman & Diu , and I am Currently Working on Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress and PHP and Laravel . I also enjoy UI, UX, and design in general. </p>
 
 ## Skills :  
 * ⚛  ReactJs 
 * 💻 HTML / CSS / JS / PHP
 * 💕 C / C++ / Python
-* 🕹  Wordpress
+* 🕹  Wordpress / Laravel
   
     
 
 ## Overview :
+- 🌱 I'm currently intern at WebCodeGenie Working As Laravel Developer.
 - 🌱 I’m currently learning  MERN Development.
 - 👯 I’m looking to collaborate on Web Developer / Pyhton Developer .
 - 👯 I have a good skills in Python Programming.
